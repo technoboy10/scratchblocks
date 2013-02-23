@@ -1059,13 +1059,15 @@ hide variable [var v]   \
 \
 \
 ## List ##   \
-add [thing] to [list v]   \
+add [thing] to [list v]\
 \
 delete (1 v) of [list v]   \
 insert [thing] at (1 v) of [list v]   \
 replace item (1 v) of [list v] with [thing]   \
 \
 (item (1 v) of [list v])   \
+(list [])\
+\
 (length of [list v])   \
 <[list v] contains [thing]>   \
 \
