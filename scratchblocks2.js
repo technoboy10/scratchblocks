@@ -1066,7 +1066,7 @@ insert [thing] at (1 v) of [list v]   \
 replace item (1 v) of [list v] with [thing]   \
 \
 (item (1 v) of [list v])   \
-(list [])\
+(list [])   \
 \
 (length of [list v])   \
 <[list v] contains [thing]>   \
