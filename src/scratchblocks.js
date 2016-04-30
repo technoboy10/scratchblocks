@@ -157,6 +157,7 @@ var scratchblocks = function () {
     "@turnLeft": "↺",
     "@addInput": "▸",
     "@delInput": "◂",
+    "@cloud": "☁",
   };
 
   var allLanguages = {};
